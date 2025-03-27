@@ -253,21 +253,23 @@ async function update(token, xtoken, agent, cookie, refCode) {
     };
 
 const bannerLines = [
-    `${colors.bright}${colors.green}░▀▀█░█▀█░▀█▀░█▀█${colors.reset}\n` +
-    `${colors.bright}${colors.cyan}░▄▀░░█▀█░░█░░█░█${colors.reset}\n` +
-    `${colors.bright}${colors.yellow}░▀▀▀░▀░▀░▀▀▀░▀░▀${colors.reset}`,
+    `${colors.bright}${colors.yellow}    __  _______  ____  ______          __ ${colors.reset}\n` +
+    `${colors.bright}${colors.cyan}   /  |/  / __ \/ __ \/_  __/__  _____/ /_ ${colors.reset}\n` +
+    `${colors.bright}${colors.cyan}  / /|_/ / /_/ / /_/ / / / / _ \/ ___/ __ \${colors.reset}\n` +
+    `${colors.bright}${colors.cyan} / /  / / _, _/ ____/ / / /  __/ /__/ / / /${colors.reset}\n` +
+  `${colors.bright}${colors.yellow}/_/  /_/_/ |_/_/   /_/  \___/\___/_/ /_/ ${colors.reset}`,
         `${colors.bright}${colors.bgBlue}╔══════════════════════════════════╗${colors.reset}`,
         `${colors.bright}${colors.bgBlue}║                                  ║${colors.reset}`,
-        `${colors.bright}${colors.bgBlue}║  ${colors.magenta}ZAIN ARAIN                      ${colors.bgBlue}║${colors.reset}`,
-        `${colors.bright}${colors.bgBlue}║  ${colors.cyan}AUTO SCRIPT MASTER              ${colors.bgBlue}║${colors.reset}`,
+        `${colors.bright}${colors.bgBlue}║  ${colors.magenta}MRPTech                     ${colors.bgBlue}║${colors.reset}`,
+        `${colors.bright}${colors.bgBlue}║  ${colors.cyan}Litus Script              ${colors.bgBlue}║${colors.reset}`,
         `${colors.bright}${colors.bgBlue}║                                  ║${colors.reset}`,
         `${colors.bright}${colors.bgBlue}║  ${colors.yellow}JOIN TELEGRAM CHANNEL NOW!      ${colors.bgBlue}║${colors.reset}`,
-        `${colors.bright}${colors.bgBlue}║  ${colors.green}https://t.me/AirdropScript6     ${colors.bgBlue}║${colors.reset}`,
-        `${colors.bright}${colors.bgBlue}║  ${colors.red}@AirdropScript6 - OFFICIAL      ${colors.bgBlue}║${colors.reset}`,
-        `${colors.bright}${colors.bgBlue}║  ${colors.cyan}CHANNEL                         ${colors.bgBlue}║${colors.reset}`,
+        `${colors.bright}${colors.bgBlue}║  ${colors.green}https://t.me/mrptechofficial     ${colors.bgBlue}║${colors.reset}`,
+        `${colors.bright}${colors.bgBlue}║  ${colors.red}@mrptechofficial      ${colors.bgBlue}║${colors.reset}`,
+        `${colors.bright}${colors.bgBlue}║  ${colors.cyan}Join Fast                        ${colors.bgBlue}║${colors.reset}`,
         `${colors.bright}${colors.bgBlue}║                                  ║${colors.reset}`,
-        `${colors.bright}${colors.bgBlue}║  ${colors.green}FAST - RELIABLE - SECURE        ${colors.bgBlue}║${colors.reset}`,
-        `${colors.bright}${colors.bgBlue}║  ${colors.yellow}SCRIPTS EXPERT                  ${colors.bgBlue}║${colors.reset}`,
+        `${colors.bright}${colors.bgBlue}║  ${colors.green}Detailed Video       ${colors.bgBlue}║${colors.reset}`,
+        `${colors.bright}${colors.bgBlue}║  ${colors.yellow}In Telegram Channel                  ${colors.bgBlue}║${colors.reset}`,
         `${colors.bright}${colors.bgBlue}║                                  ║${colors.reset}`,
         `${colors.bright}${colors.bgBlue}╚══════════════════════════════════╝${colors.reset}`
     ];
@@ -281,7 +283,7 @@ async function main() {
     const { proxies, accounts } = await readFiles();
     console.log("Litas Bot");
     console.log(
-      "https://t.me/AirdropScript6"
+      "https://t.me/mrptechofficial"
     );
     console.log("------------------------------------------------------------");
 
