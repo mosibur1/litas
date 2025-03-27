@@ -253,11 +253,11 @@ async function update(token, xtoken, agent, cookie, refCode) {
     };
 
 const bannerLines = [
-    `${colors.bright}${colors.yellow}    __  _______  ____  ______          __ ${colors.reset}\n` +
-    `${colors.bright}${colors.cyan}   /  |/  / __ \/ __ \/_  __/__  _____/ /_ ${colors.reset}\n` +
-    `${colors.bright}${colors.cyan}  / /|_/ / /_/ / /_/ / / / / _ \/ ___/ __ \${colors.reset}\n` +
+    `${colors.bright}${colors.yellow}    __  _______  ____  ______          __  ${colors.reset}\n` +
+    `${colors.bright}${colors.cyan}   /  |/  / __ \/ __ \/_  __/__  _____/ /  ${colors.reset}\n` +
+    `${colors.bright}${colors.cyan}  / /|_/ / /_/ / /_/ / / / / _ \/ ___/ __ \ ${colors.reset}\n` +
     `${colors.bright}${colors.cyan} / /  / / _, _/ ____/ / / /  __/ /__/ / / /${colors.reset}\n` +
-  `${colors.bright}${colors.yellow}/_/  /_/_/ |_/_/   /_/  \___/\___/_/ /_/ ${colors.reset}`,
+  `${colors.bright}${colors.yellow}/_/  /_/_/ |_/_/   /_/  \___/\___/_/ /_/ / ${colors.reset}`,
         `${colors.bright}${colors.bgBlue}╔══════════════════════════════════╗${colors.reset}`,
         `${colors.bright}${colors.bgBlue}║                                  ║${colors.reset}`,
         `${colors.bright}${colors.bgBlue}║  ${colors.magenta}MRPTech                     ${colors.bgBlue}║${colors.reset}`,
